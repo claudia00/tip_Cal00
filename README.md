@@ -12,7 +12,7 @@ Time spent: **X** hours spent in total
 ## Video Walkthrough
 
 Here's a walkthrough of implemented :
-https://github.com/claudia00/tip_Cal00/blob/master/cal_tip.gif
+<img src='https://github.com/claudia00/tip_Cal00/blob/master/cal_tip.gif' width='' alt='Video Walkthrough'>
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes

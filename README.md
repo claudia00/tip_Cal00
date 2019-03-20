@@ -1,7 +1,7 @@
 # tip_Cal00
 # Project 1 - *tip_Cal*
 
-**Name of your app** is a movies app using the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
+**Tip_Cal** is a Calculator app using the [XCode, and swift programming].
 
 Time spent: **X** hours spent in total
 
@@ -12,7 +12,7 @@ Time spent: **X** hours spent in total
 ## Video Walkthrough
 
 Here's a walkthrough of implemented :
-cal_tip.gif
+https://github.com/claudia00/tip_Cal00/blob/master/cal_tip.gif
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
@@ -20,7 +20,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2018] [Claudia Martinez]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
